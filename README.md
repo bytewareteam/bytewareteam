@@ -1,13 +1,10 @@
 # 💫About Me :
-Inicié en el desarrollo de software cómo hobbie con 15 años de edad,
-desde ese entonces he estado aprendiendo y mejorando constantemente.
+I started in software development as a hobby when I was 15 years old, since then I have been constantly learning and improving.
 
-Trabajar en lo que me apasiona es lo que me hace feliz. Y esto me ha llevado a 
-puestos como desarrollador web, y líder de equipos hasta la gestión de personas
-y proyectos.
+Working on what I am passionate about makes me happy. And this has led me to positions such as web developer, and team leader, to people and project management.
 
-Ha día de hoy sigo aprendiendo y mejorando constantemente, compartiendo mi
-experiencia y conocimientos con otros desarrolladores.
+To this day I am constantly learning and improving, sharing my
+experience and knowledge with other developers.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-monoga) 
